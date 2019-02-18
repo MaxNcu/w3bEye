@@ -28,8 +28,7 @@ Options:
     Remind: use these options to get designated info about your target.
 
     -A, --AllExpand     Default choice: All information of target.
-    -H, --httpHeader    HttpHeader according to your target's.You can choose
-                        Yes or No to get it.
+    -H, --httpHeader    HttpHeader according to your target's.
     -r, --reverseHackTarget
                         ReverseHackTarget according to your target.
     -t, --traceRoute    TraceRoute according to your target.

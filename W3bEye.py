@@ -40,7 +40,7 @@ def parser_args():
 	group.add_option('-A','--AllExpand',action='store_true',
 			help='Default choice: All information of target.')
 	group.add_option('-H','--httpHeader',action='store_true',
-			help='HttpHeader according to your target\'s.You can choose Yes or No to get it.')
+			help='HttpHeader according to your target\'s.')
 	group.add_option('-r','--reverseHackTarget',action='store_true',
 			help='ReverseHackTarget according to your target.')
 	group.add_option('-t','--traceRoute',action='store_true',
